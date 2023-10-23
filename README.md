@@ -1,8 +1,8 @@
 ![Poster](https://i.ibb.co/vmzXBbf/poster-a.png)
 # YT_Miracle
  🪴 YouTube Miracle and YTM Music Pre Patched Buils.  
- >[**Used Integrations**](https://github.com/inotia00/revanced-patches)<br> 
- >[**Used Patches**](https://github.com/inotia00/revanced-integrations)<br> 
+ >[**Used Integrations**](https://github.com/inotia00/revanced-integrations)<br> 
+ >[**Used Patches**]([https://github.com/inotia00/revanced-integrations](https://github.com/inotia00/revanced-patches))<br> 
   
   
  >**Credits**<br> 
